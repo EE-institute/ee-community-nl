@@ -12,3 +12,4 @@ Presentaties: [deel 1](/20250917%20EE%20en%20People%20Culture/2025-09-17%20EE%20
 ### 20250515 EE en de Menselijke Maat
 Hawre Ramini, Shakha Mirza  
 Locatie: KIVI, Den Haag
+[Verslag van de interactieve discussie](/20250515%20EE%20en%20de%20Menselijke%20Maat/EE%20en%20menselijke%20maat%20-%20meetingwizard.pdf)
