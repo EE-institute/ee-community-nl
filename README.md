@@ -8,6 +8,8 @@ Aanmelden bij onze community kan via [onze LinkedIn pagina](https://www.linkedin
 
 CEE-NL is onderdeel van het [KNVI](https://knvi.nl/), gesponsord door het [KIVI](https://kivi.nl/).
 
+Wil je meer weten over DEMO, kijk dan op de [publicatie-pagina van het Enterprise Engineering Institute](https://ee-institute.org/demo/werken-met-demo/).
+
 ## Events
 
 ### 20260311 EE methoden in de praktijk
