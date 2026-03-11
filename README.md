@@ -2,13 +2,13 @@
 
 ![CEE-NL logo](/resources/logo-full.jpeg)
 
-Dit is de pagina van de Community van Enterprise Engineers in Nederland (CEE-NL). Hier vind je alle gedeelde bestanden van de gehouden sessies (voorheen EDEKX en DEMO Platform).
+Dit is de pagina van de Community van Enterprise Engineers in Nederland (CEE-NL). Hier vind je alle gedeelde bestanden van de gehouden sessies (voorheen EDEKX en DEMO Platform). Onze aankomende events vind je op [onze KNVI pagina](https://www.knvi.nl/interessegroep/community-enterprise-engineers-nederland).
 
 Aanmelden bij onze community kan via [onze LinkedIn pagina](https://www.linkedin.com/company/ee-community-nl/).
 
 CEE-NL is onderdeel van het [KNVI](https://knvi.nl/), gesponsord door het [KIVI](https://kivi.nl/).
 
-Wil je meer weten over DEMO, kijk dan op de [publicatie-pagina van het Enterprise Engineering Institute](https://ee-institute.org/demo/werken-met-demo/).
+Wil je meer weten over DEMO en Enterprise Engineering, kijk dan op de [publicatie-pagina van het Enterprise Engineering Institute](https://ee-institute.org/demo/werken-met-demo/).
 
 ## Events
 
