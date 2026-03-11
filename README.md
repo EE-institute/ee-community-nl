@@ -1,6 +1,6 @@
 # ee-community-nl
 
-![CEE-NL logo](/logo-full.jpg)
+![CEE-NL logo](/logo-full.jpeg)
 
 Dit is de pagina van de Community van Enterprise Engineers in Nederland (CEE-NL). Hier vind je alle gedeelde bestanden van de gehouden sessies (voorheen EDEKX en DEMO Platform).
 
