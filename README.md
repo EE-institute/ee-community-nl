@@ -21,15 +21,13 @@ Presentaties:
  - [DEMO en OntoUML in de zorg](/events/210260311%20EE%20methoden/DEMO%20Modeling%20with%20ArchiMate.pdf) - Holke Visser en Bas van der Raadt
 
 ### 20250917 EE en People Culture
-Joop de Jong, Bianca Buurman
-
 Locatie: MPrise, Veenendaal
 
-Presentaties: [deel 1](/events/20250917%20EE%20en%20People%20Culture/2025-09-17%20EE%20Bijeenkomst%20MA.pdf) en [deel 2](/events/20250917%20EE%20en%20People%20Culture//20250917%20presentatie%20Bianca%20EEI.pdf)
+Presentaties: [deel 1](/events/20250917%20EE%20en%20People%20Culture/2025-09-17%20EE%20Bijeenkomst%20MA.pdf) (Joop de Jong) en [deel 2](/events/20250917%20EE%20en%20People%20Culture//20250917%20presentatie%20Bianca%20EEI.pdf) (Bianca Buurman)
 
 ### 20250515 EE en de Menselijke Maat
-Hawre Ramini, Shakha Mirza
-
 Locatie: KIVI, Den Haag
+
+Sprekers: Hawre Ramini, Shakha Mirza
 
 [Verslag van de interactieve discussie](/events/20250515%20EE%20en%20de%20Menselijke%20Maat/EE%20en%20menselijke%20maat%20-%20meetingwizard.pdf)
