@@ -16,8 +16,8 @@ Wil je meer weten over DEMO en Enterprise Engineering, kijk dan op de [publicati
 Locatie: KIVI Den Haag
 Presentaties:
  - [ArchiMate en DEMO in een internationale context](/events/210260311%20EE%20methoden/EDAM-DEMO%20%E2%80%93%20ArchiMate%20Mapping%20-%20final.pdf) - Olaf Kruidhof en Rik van der Schalie
- - [IT Portfolio management](/) - Gerke Geurts
- - [DEMO en OntoUML in de zorg](/) - Holke Visser en Bas van der Raadt
+ - [IT Portfolio management](/events/210260311 EE methoden/260311%20Hapsah%20%26%20Domeinmodelleren%20-%20Community%20Enterprise%20Engineers%20NL%20(share%20versie).pdf) - Gerke Geurts
+ - [DEMO en OntoUML in de zorg](/events/210260311%20EE%20methoden/DEMO%20Modeling%20with%20ArchiMate.pdf) - Holke Visser en Bas van der Raadt
 
 ### 20250917 EE en People Culture
 Joop de Jong, Bianca Buurman  
