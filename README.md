@@ -1,4 +1,4 @@
-# ee-community-nl
+# Community van Enterprise Engineers in Nederland (CEE-NL)
 
 ![CEE-NL logo](/resources/logo-full.jpeg)
 
@@ -11,6 +11,14 @@ CEE-NL is onderdeel van het [KNVI](https://knvi.nl/), gesponsord door het [KIVI]
 Wil je meer weten over DEMO en Enterprise Engineering, kijk dan op de [publicatie-pagina van het Enterprise Engineering Institute](https://ee-institute.org/demo/werken-met-demo/).
 
 ## Events
+
+### 20260630 EE en AI: lessen uit de praktijk - geen AI zonder kennis
+Locatie: Achmea Apeldoorn
+
+Presentaties:
+- Rikkert van Capelleveen
+- Edwin de Haan
+- Silke van Rooij
 
 ### 20260311 EE methoden in de praktijk
 Locatie: KIVI Den Haag
