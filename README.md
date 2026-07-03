@@ -16,9 +16,9 @@ Wil je meer weten over DEMO en Enterprise Engineering, kijk dan op de [publicati
 Locatie: Achmea Apeldoorn
 
 Presentaties:
-- Rikkert van Capelleveen
-- Edwin de Haan
-- Silke van Rooij
+- [Achmea en AI](/events/20260630%20EE%20AI/260625%20Achmea%20Enterprise%20Engineering.pdf) - Rikkert van Capelleveen
+- [AI en Enterprise Ontology](/events/20260630%20EE%20AI/260628%20Achmea%20AI.pdf) - Edwin de Haan
+- [AI binnen invorderingsbranch]() - Silke van Rooij
 
 ### 20260311 EE methoden in de praktijk
 Locatie: KIVI Den Haag
