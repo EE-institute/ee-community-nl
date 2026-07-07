@@ -2,13 +2,13 @@
 
 ![CEE-NL logo](/resources/logo-full.jpeg)
 
-Dit is de pagina van de Community van Enterprise Engineers in Nederland (CEE-NL). Hier vind je alle gedeelde bestanden van de gehouden sessies (voorheen EDEKX en DEMO Platform). Onze aankomende events vind je op [onze KNVI pagina](https://www.knvi.nl/interessegroep/community-enterprise-engineers-nederland).
+Dit is de pagina van de [Community van Enterprise Engineers in Nederland (CEE-NL)](https://ee-alliance.info/ee-associations/cee-nl/). Hier vind je alle gedeelde bestanden van de gehouden sessies (voorheen EDEKX en DEMO Platform). Onze aankomende events vind je op [onze KNVI pagina](https://www.knvi.nl/interessegroep/community-enterprise-engineers-nederland).
 
 Aanmelden bij onze community kan via [onze LinkedIn pagina](https://www.linkedin.com/company/ee-community-nl/).
 
 CEE-NL is onderdeel van het [KNVI](https://knvi.nl/), gesponsord door het [KIVI](https://kivi.nl/).
 
-Wil je meer weten over DEMO en Enterprise Engineering, kijk dan op de [publicatie-pagina van het Enterprise Engineering Institute](https://ee-institute.org/demo/werken-met-demo/).
+Wil je meer weten over DEMO en Enterprise Engineering, kijk dan in de [publicatie-repository van de Enterprise Engineering Alliance](https://ee-institute.org/demo/werken-met-demo/).
 
 ## Events
 
@@ -74,7 +74,7 @@ Presentatie: [Meer, Beter, Sneller - Forensisch Onderzoek](/events/Meer-beter-sn
 - [Bedrijfsarchitecturen op basis van transacties](/events/2015-2018%20DEMO%20platform/Adosh%20vd%20Heijden%20-%20DEMO%20Platform%2020160519.pdf) (Adosh van der Heijden)
 
 #### 20151029
-- [BPM Life cycle met de DEMO engine](/events/2015-2018%20DEMO%20platform/BPM%20life%20cycle%20met%20de%20DEMO%20engine%20-%20DEMO%20Platform%2020151029.pdf)
+- [BPM Life cycle met de DEMO engine](/events/2015-2018%20DEMO%20platform/BPM%20life%20cycle%20met%20de%20DEMO%20engine%20-%20DEMO%20Platform%2020151029.pdf) (ForMetis)
 - [Snelle validatie op basis van business gaming](/events/2015-2018%20DEMO%20platform/Snelle%20validatie%20op%20basis%20van%20business%20gaming%20-%20DEMO%20platform%2020151029.pdf) (Markus Travaille)
 
 #### 20150518
