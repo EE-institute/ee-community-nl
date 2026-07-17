@@ -9,6 +9,7 @@ Aanmelden bij onze community kan via [onze LinkedIn pagina](https://www.linkedin
 CEE-NL is onderdeel van het [KNVI](https://knvi.nl/), gesponsord door het [KIVI](https://kivi.nl/).
 
 Wil je meer weten over DEMO en Enterprise Engineering, kijk dan in de [publicatie-repository van de Enterprise Engineering Alliance](https://ee-institute.org/demo/werken-met-demo/).
+Een laagdrempelige Nederlands-talige inleiding in Enterprise Engineering en DEMO vind je in het boek [Begrijpen en Maken van Essentiële Modellen](/resources/WmD01-BMEM-v.1.4.pdf), geschreven door deelnemers van de NL-community.
 
 ## Events
 
